@@ -89,7 +89,7 @@
       <div class="col-lg-6">
         <form action="" method="post">
 
-          <a href="" value="">Ingin Mendapatkan Update Terbaru mengenai FHCI ?</a><input type="submit" value="Subscribe">
+          <a href="" value="">Ingin Mendapatkan Update Terbaru mengenai FHCI ?</a><input type="submit" class="btn btn-outline-info rounded-pill" value="Subscribe">
           
         </form>
       </div>

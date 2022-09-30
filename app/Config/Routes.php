@@ -39,6 +39,13 @@ $routes->get('/', 'User\HomeController::index');
 $routes->get('/home', 'User\HomeController::home');
 $routes->get('/about', 'User\HomeController::about');
 $routes->get('/program_event', 'User\HomeController::program_event');
+$routes->get('/program_event/magang_mahasiswa', 'User\HomeController::program_event');
+$routes->get('/program_event/bumn_people', 'User\HomeController::program_event');
+$routes->get('/program_event/talent_internship', 'User\HomeController::program_event');
+$routes->get('/program_event/sharing_best', 'User\HomeController::program_event');
+$routes->get('/program_event/lembaga_sertifikasi', 'User\HomeController::program_event');
+
+
 // $routes->get('/media_center', 'User\HomeController::media_center');
 $routes->get('/siaran_pers', 'User\HomeController::siaran_pers');
 $routes->get('/artikel', 'User\HomeController::artikel');

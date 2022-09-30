@@ -32,8 +32,50 @@ class HomeController extends BaseController
         $data = [
             'title' => 'Program & Event | FHCI'
         ];
-        return view('pages/users/program_event', $data);
+        return view('pages/users/program_event/program_event', $data);
     }
+
+    public function magang_mahasiswa()
+    {
+        $data = [
+            'title' => 'Magang Mahasiswa Bersertifikat | FHCI'
+        ];
+        return view('pages/users/program_event/magang_mahasiswa', $data);
+    }
+
+    public function bumn_people()
+    {
+        $data = [
+            'title' => 'BUMN People Analytics & Event | FHCI'
+        ];
+        return view('pages/users/program_event/bumn_people', $data);
+    }
+    
+    public function talent_internship()
+    {
+        $data = [
+            'title' => 'Talent Internship & Advancement | FHCI'
+        ];
+        return view('pages/users/program_event/talent_internship', $data);
+    }
+    
+    public function sharing_best()
+    {
+        $data = [
+            'title' => 'Sharing Best Practice BUMN | FHCI'
+        ];
+        return view('pages/users/program_event/sharing_best', $data);
+    }
+
+    public function lembaga_sertifikasi()
+    {
+        $data = [
+            'title' => 'Lembaga Sertifikasi Profesional | FHCI'
+        ];
+        return view('pages/users/program_event/lembaga_sertifikasi', $data);
+    }
+    
+    
 
     // public function media_center()
     // {

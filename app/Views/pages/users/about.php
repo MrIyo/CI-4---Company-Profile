@@ -5,7 +5,7 @@
 
 <section id="heroo" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container " data-aos="fade-up">
-      <h1 style="margin-right: 950px;">Tentang Forum Human Capital Indonesia</h1>
+      <h1 style="margin-right: 900px;">Tentang Forum Human Capital Indonesia</h1>
     </div>
   </section><!-- End Hero -->
   
@@ -32,7 +32,7 @@
             The FHCI board has undergone 5 periods. Currently the Chairman of FHCI is Herdy Harman (Director of HCM, Telkom Indonesia), while the Secretary General is Wing Antariksa (Director of Human Capital & General Affairs, ASDP Indonesia).
             </p>
             <br>
-           <button class="btn btn-outline-danger"><i class="fa fa-play-circle" aria-hidden="true"></i>LEBIH LANJUT</button>
+           <button type="button" class="btn btn-outline-danger rounded-pill">LEBIH LANJUT</button>
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@
               <h5>3 Principle PIllars of FHCI</h5>
               <p>Merupakan 3 prinsip dasar dalam FHCI yang merupakan pedoman FHCI secara keseluruhan</p>
               <br><br>
-              <button class="btn btn-outline-light"><i class="fa fa-eyes" aria-hidden="true"></i>Lihat Bagan</button>
+              <button type="button" class="btn btn-outline-light rounded-pill">Lihat Bagan</button>
             </div>
           </div>
 
@@ -67,7 +67,7 @@
               <h5>Milestone FHCI</h5>
               <p>Milestone atau tahapan yang menjadi tolak ukur pencapaian dari FHCI sendiri.</p>
               <br><br>
-              <button class="btn btn-outline-light"><i class="fa fa-eyes" aria-hidden="true"></i>Lihat Bagan</button>
+              <button type="button" class="btn btn-outline-light rounded-pill">Lihat Bagan</button>
             </div>
           </div>
 
@@ -77,7 +77,7 @@
               <h5>Positioning and Strategies</h5>
               <p>Positioning FHCI dalam BUMN serta strategi FHCI untuk menjadikan Visi dan Misi FHCI Tercapai</p>
               <br><br>
-              <button class="btn btn-outline-light"><i class="fa fa-eyes" aria-hidden="true"></i>Lihat Bagan</button>
+              <button type="button" class="btn btn-outline-light rounded-pill">Lihat Bagan</button>
             </div>
           </div>
 
@@ -322,7 +322,7 @@
          Srikandi BUMN merupakan komunitas perempuan berkarya di BUMN untuk saling mendukung sesama perempuan dalam berkarya dan berprestasi dengan beragam peran sebagai ibu, istri dan pekerja. Komunitas Srikandi BUMN didirikan untuk menjawab panggilan Bpk. Joko Widodo, Presiden Republik Indonesia yang juga Impact Champion for HeforShe Program United Nations, yang menyatakan bahwa Inonesia berkomitmen untuk meningkatkan keterwakilan perempuan hingga 30% di parlemen dan berbagai pembuat kebijakan.
        </p>
        <br><br>
-            <button class="btn btn-outline-danger"><i class="fa fa-play-circle" aria-hidden="true"></i>LEBIH LANJUT</button>
+       <button type="button" class="btn btn-outline-danger rounded-pill">LEBIH LANJUT</button>
      </div>
 
      <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
@@ -352,7 +352,7 @@
                 Di bawah naungan Forum Human Capital Inonesia (FHCI) yang menjadi mitra strategis Kementrian BUMN dalam transformasi dan pengembangan human capital di BUMN, komunitas BUMN Muda menjadi wadah bagi generasi mudda insan BUMN untuk menyatukan gagasan, mengembangkan potensi, serta meningkatkan kompetensi agar berkontribusi aktif sebagai agen perubahan dan pemimpin generasi baru di BUMN di masa kini, dan mendatang.
             </p>
             <br><br>
-            <button class="btn btn-outline-danger"><i class="fa fa-play-circle" aria-hidden="true"></i>LEBIH LANJUT</button>
+            <button type="button" class="btn btn-outline-danger rounded-pill">LEBIH LANJUT</button>
           </div>
 
         </div>

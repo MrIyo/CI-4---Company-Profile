@@ -8,7 +8,7 @@
     <div class="container " data-aos="fade-up">
       <h2 style="margin-right: 950px;">21.966 Mahasiswa Sudah Magang Melalui Kami.</h2>
       <p style="color: white; margin-right: 650px;">Memberikan kesempatan kepada mahasiswa untuk menyalurkan potensi dan menggali pengalaman di BUMN.</p>
-      <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+      <a type="button" href="/program_event" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></a>
     </div>
   </section><!-- End Hero -->
 <br><br>
@@ -30,7 +30,7 @@
                Forum Human Capital Indonesia adalah wadah untuk insan unggul Indonesia untuk bertukar pikiran, belajar, dan membangun sinergi di BUMN dalam rangka menciptakan talenta global untuk Indonesia.
             </p>
            <br>
-           <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <a type="button" href="/about" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></a>
           </div>
         </div>
 
@@ -60,7 +60,7 @@
                   Memberikan kesempatan kepada mahasiswa untuk menyalurkan potensi dan menggali pengalaman di BUMN.
                 </a>
                 <br><br><br>
-                <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <a type="button" href="/program_event/magang_mahasiswa" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></a>
               </div>
             </div>
             <!-- End testimonial item -->
@@ -73,7 +73,7 @@
                   Membantu BUMN dalam mengambil keputusan dalam perencanaan, pengelolaan dan pengembangan karyawan.
                 </a>
                 <br><br><br>
-                <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <button type="button" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></button>
               </div>
             </div>
             <!-- End testimonial item -->
@@ -86,7 +86,7 @@
                 Berbagi pengetahuan dan best practices (sinergi) antar perusahaan baik domestik maupun global untuk meningkatkan daya saing dalam industri.
                 </a>
                 <br><br><br>
-                <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <button type="button" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></button>
               </div>
             </div>
             <!-- End testimonial item -->
@@ -99,7 +99,7 @@
                 Sarana berbagi pengetahuan, berinteraksi, bersinergi dan saling belajar best practice di lingkungan BUMN.
                 </a>
                 <br><br><br>
-                <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <button type="button" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></button>
               </div>
             </div>
             <!-- End testimonial item -->
@@ -112,7 +112,7 @@
                 Meningkatkan kesiapan skill & knowledge tenaga kerja menuju Globalisasi dan Standarisasi kompetensi di lingkungan BUMN.
                 </a>
                 <br><br><br>
-                <button class="btn btn-outline-warning">LEBIH LANJUT -></button>
+           <button type="button" class="btn btn-outline-warning rounded-pill">LEBIH LANJUT -></button>
               </div>
             </div>
             <!-- End testimonial item -->
@@ -138,14 +138,13 @@
 
         <div class="clients-slider swiper-slide">
           <div class="swiper-wrapper align-items-center">
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-1.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-2.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-3.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-4.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-5.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-6.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-7.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
-            <div class="clients-slider"><img src="Lumia/assets/img/clients/client-8.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/pln.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/bni.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/btn.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/mandiri.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/pertamina.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/rni.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
+            <div class="clients-slider"><img src="Lumia/assets/img/clients/telkom.png" class="img-fluid" height="80%;" width="90%;" alt=""></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -215,6 +214,8 @@ Kamu bisa terus belajar, meningkatkan pengetahuan, dan mengembangkan kapabilitas
     </div>
 
   </div>
+<br><br>
+  <a type="button" href="/artikel" class="btn btn-outline-warning rounded-pill" style="text-align: center;">Load More -></a>
 
 </div>
 
